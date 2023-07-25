@@ -4,7 +4,7 @@ key = input("Enter your OpenAI API key: ")
 openai.api_key = key
 
 filename = input("Enter the name of the file you want to create documentation for: ")
-with open(filename, "r") as file:
+with open(filename, "r") as  file:
     file_content = file.read()
 name = filename.split(".")[0]
 # Create the documentation prompt

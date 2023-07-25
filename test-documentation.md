@@ -2,10 +2,10 @@
 Code Documentation
 
 # Introduction
-This document provides documentation for the code written in the given file.
+This document provides documentation for the code written in the given  file.
 
 # Usage
-This code is written to retrieve memory usage information from a specific EC2 instance and publish it as a CloudWatch metric.
+This code is written to retrieve memory information from a specific EC2 instance and publish it as a CloudWatch metric.
 
 # Dependencies
 The code requires the following dependencies:
